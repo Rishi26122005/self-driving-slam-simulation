@@ -1,4 +1,0 @@
-vpython
-numpy
-matplotlib
-pathfinding
