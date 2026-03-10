@@ -28,7 +28,7 @@ This project was developed as part of the **Introduction to AI Robotics course**
 
 A short video of the simulation running in the environment:
 
-![Simulation Demo](assets/output_video.mp4)
+![Simulation Demo](assets/ouput_video.mp4)
 
 ---
 
